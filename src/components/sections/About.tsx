@@ -2,7 +2,7 @@
 function About() {
     return (
         <>
-            <div id="about" className="flex flex-col md:flex-row gap-[20px] px-[20px] md:px-[40px] lg:px-[100px] md:gap-[40px] py-[60px] md:py-[80px] lg:py-[100px]">
+            <div id="about" className="bg-[#E0E1DD] flex flex-col md:flex-row gap-[20px] px-[20px] md:px-[40px] lg:px-[100px] md:gap-[40px] py-[60px] md:py-[80px] lg:py-[100px]">
                 <div className="meet-yk-heading whitespace-nowrap text-[32px] md:text-[48px]">Meet Yogesh Kumar</div>
                 <div className="meet-yk-desc">
                     Peek behind the code and unveil the creative genius of Yogesh Kumar, a
