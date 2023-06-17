@@ -1,4 +1,3 @@
-// import {Banner1, Banner2, Banner3, Banner4} from "../../../public/"
 function About() {
     return (
         <>
