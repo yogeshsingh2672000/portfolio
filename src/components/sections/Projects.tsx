@@ -31,8 +31,8 @@ function Projects() {
     };
 
     const customAnimation = {
-        mount: { scale: 1 },
-        unmount: { scale: 0.9 },
+        mount: { scale: 1, opacity: 1 },
+        unmount: { scale: 0.9, opacity: 0.1 },
       };
 
   return (
