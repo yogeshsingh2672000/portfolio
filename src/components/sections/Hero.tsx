@@ -8,7 +8,7 @@ function Hero() {
                 <a href="#skills"><button className='hero-button'>Skills</button></a>
                 <a href="#"><button className='hero-button'>Experience</button></a>
                 <a href="#projects"><button className='hero-button'>Projects</button></a>
-                <a href="#"><button className='hero-button'>Contact</button></a>
+                <a href="#contact"><button className='hero-button'>Contact</button></a>
             </div>
         </div>
     )
