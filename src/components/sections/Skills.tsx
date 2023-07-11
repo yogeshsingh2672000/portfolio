@@ -11,7 +11,7 @@ function Skills() {
                 </div>
                 <div className="flex flex-col gap-[10px]">
                     <div className="dev-toolkit-sub-heading">Frameworks</div>
-                    <div className="dev-toolkit-desc">Node.js, React.js, Next.js, Django, Laravel – he’s the architect</div>
+                    <div className="dev-toolkit-desc">Node.js, React.js, Next.js, Django, Laravel, Tailwind, Bootstap, Material UI – he’s the architect</div>
                 </div>
                 <div className="flex flex-col gap-[10px]">
                     <div className="dev-toolkit-sub-heading">Databases</div>
