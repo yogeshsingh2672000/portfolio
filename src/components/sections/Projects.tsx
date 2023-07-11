@@ -37,6 +37,9 @@ function Projects() {
 
   return (
     <div id='projects' className='bg-[#778DA9] grid grid-cols-1 w-full gap-[10px] md:gap-[20px] px-[20px] md:px-[40px] lg:px-[100px] py-[20px] md:py-[80px] lg:py-[100px]'>
+        <div className="dev-toolkit-heading pb-[20px] md:pb-[40px] text-[32px] md:text-[48px]">
+            Projects
+        </div>
         <Accordion animate={customAnimation} className="bg-[#67809F] px-[20px] rounded-[20px]" open={open === 1} icon={<Icon id={1} open={open} />}>
             <AccordionHeader onClick={() => handleOpen(1)} className='py-[20px]'>
                 Inventory Management System
