@@ -1,6 +1,6 @@
 function Skills() {
     return (
-        <div className="bg-[#778DA9] px-[20px] md:px-[50px] lg:px-[100px] py-[40px] md:py-[50px] lg:py-[100px]">
+        <div id="skills" className="bg-[#778DA9] px-[20px] md:px-[50px] lg:px-[100px] py-[40px] md:py-[50px] lg:py-[100px]">
             <div className="dev-toolkit-heading pb-[40px] md:pb-[60px] text-[32px] md:text-[48px]">
                 The Developer’s Toolkit
             </div>
