@@ -65,3 +65,7 @@
   letter-spacing: 0em;
   line-height: 1.5;
 }
+
+.antialiased {
+  justify-content: space-between;
+}
