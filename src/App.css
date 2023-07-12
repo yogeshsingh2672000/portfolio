@@ -69,3 +69,9 @@
 .antialiased {
   justify-content: space-between;
 }
+
+.hidescrollbar::-webkit-scrollbar {
+  display: none;
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}

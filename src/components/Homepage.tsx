@@ -5,6 +5,7 @@ import Projects from './sections/Projects'
 // import Feedbacks from './sections/Feedbacks'
 import Contact from './sections/Contact'
 import Footer from './sections/Footer'
+import Experience from './sections/Experience'
 
 function Home() {
     return (
@@ -12,6 +13,7 @@ function Home() {
             <Hero />
             <About />
             <Skills />
+            <Experience/>
             <Projects/>
             {/* <Feedbacks/> not required until we have any freelancing exp */}
             <Contact/>
