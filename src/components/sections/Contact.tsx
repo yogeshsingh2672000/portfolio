@@ -16,7 +16,7 @@ function Contact() {
 
   return (
     <div id="contact" className="px-[20px] md:px-[50px] lg:px-[100px] py-[20px] md:py-[80px] lg:py-[100px]">
-        <div className="bg-[#778DA9] dev-toolkit-heading text-[32px] md:text-[48px]">Inspired by Yogesh&rsquo;s prowess&quest; Get in touch and witness magic unfold&excl;</div>
+        <div className="bg-[#778DA9] dev-toolkit-heading text-[32px] md:text-[48px]">Inspired by Yogesh's powers? Get in touch and witness magic unfold!</div>
         <div className="flex items-center gap-[20px] pt-[40px]">
             <Tooltip content="yogeshsingh2672000@gmail.com">
                 <a href="mailto:yogeshsingh2672000@gmail.com" className="flex justify-center items-center"><Button><img src="/icons/gmail.png" className="h-12 w-12" /></Button></a>
