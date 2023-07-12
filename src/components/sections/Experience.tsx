@@ -29,7 +29,7 @@ function Experience() {
                         <div className="text-white">Nov 2021 - Dec 2021</div>
                     </div>
                     <div className="text-center">Developed <strong>Python</strong> script to populate the data using the Excel sheets with highly efficient way, considering all the edge cases and also implemented <strong>bulk import</strong> feature using <strong>Python</strong> and <strong>Pandas</strong></div>
-                    <img className="w-8 h-8 cursor-not-allowed" src="/icons/exitlink.png" alt="exitlink" />
+                    <img className="w-8 h-8 cursor-not-allowed opacity-[0.3]" src="/icons/exitlink.png" alt="exitlink" />
                 </div>
             </div>
         </div>
