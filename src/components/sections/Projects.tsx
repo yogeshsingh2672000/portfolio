@@ -55,7 +55,7 @@ function Projects() {
                 </ul>
             </AccordionBody>
         </Accordion>
-        <Accordion animate={customAnimation} className="bg-[#67809F] px-[20px] rounded-[20px]" open={open === 2} icon={<Icon id={2} open={open} />}>
+        {/* <Accordion animate={customAnimation} className="bg-[#67809F] px-[20px] rounded-[20px]" open={open === 2} icon={<Icon id={2} open={open} />}>
             <AccordionHeader onClick={() => handleOpen(2)} className='py-[20px]'>
                 Inventory Management System
             </AccordionHeader>
@@ -84,7 +84,7 @@ function Projects() {
                     <li>➔ Tech Stack: React , Node , Express , MongoDB , Rest API , Git</li>
                 </ul>
             </AccordionBody>
-        </Accordion>
+        </Accordion> */}
   </div>
   )
 }
