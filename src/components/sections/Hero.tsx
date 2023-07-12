@@ -1,7 +1,7 @@
 function Hero() {
     return (
-        <div className='bg-[#000000] w-full h-screen text-white flex flex-col gap-[50px] justify-center items-center'>
-                <div>Geometry</div>
+        <div className='bg-[#000000] h-screen text-white flex flex-col gap-[50px] justify-center items-center'>
+                <img className="w-40 h-40 rounded-full object-cover" src="/profile.jpeg" alt="profile" />
             <div className="grid place-items-center">
                 <div>Hi there!👋 My name is </div>
                 <div className='hero-banner-text text-[3.5rem] md:text-[6rem] lg:text-[8rem]'>Yogesh Kumar</div>
