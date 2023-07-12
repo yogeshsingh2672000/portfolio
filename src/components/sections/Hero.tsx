@@ -4,10 +4,10 @@ function Hero() {
                 <img className="w-40 h-40 rounded-full object-cover" src="/profile.jpeg" alt="profile" />
             <div className="grid place-items-center">
                 <div>Hi there!👋 My name is </div>
-                <div className='hero-banner-text text-[3.5rem] md:text-[6rem] lg:text-[8rem]'>Yogesh Kumar</div>
+                <div className='hero-banner-text text-[3.5rem] md:text-[6rem] lg:text-[8rem] text-center'>Yogesh Kumar</div>
                 <div>A Full Stack Developer</div>
             </div>
-            <div className='flex flex-col md:flex-row gap-[20px]'>
+            <div className='grid grid-cols-2 md:grid-cols-5 gap-[20px]'>
                 <a className="border border-[#c9c7c9] rounded-[5px] px-[15px] py-[5px]" href="#about"><button className='hero-button'>About</button></a>
                 <a className="border border-[#c9c7c9] rounded-[5px] px-[15px] py-[5px]" href="#skills"><button className='hero-button'>Skills</button></a>
                 <a className="border border-[#c9c7c9] rounded-[5px] px-[15px] py-[5px]" href="#experience"><button className='hero-button'>Experience</button></a>
