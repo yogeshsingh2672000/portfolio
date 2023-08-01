@@ -9,12 +9,12 @@ function About() {
             </div>
             <div className="bg-[#778DA9] py-[20px] md:py-[50px] lg:py-[100px] grid grid-cols-1 md:grid-cols-2 gap-[20px] px-[20px] md:px-[50px] lg:px-[100px]">
                 <div className="flex flex-col gap-[20px]">
-                    <img className="rounded-[30px]" src="/banner1.jpg" alt="" />
-                    <img className="rounded-[30px]" src="/banner2.jpg" alt="" />
+                    <img className="rounded-[30px]" src="/banner1.jpg" alt="" loading="lazy"/>
+                    <img className="rounded-[30px]" src="/banner2.jpg" alt="" loading="lazy" />
                 </div>
                 <div className="flex flex-col gap-[20px]">
-                    <img className="rounded-[30px]" src="/banner3.jpg" alt="" />
-                    <img className="rounded-[30px]" src="/banner4.jpg" alt="" />
+                    <img className="rounded-[30px]" src="/banner3.jpg" alt="" loading="lazy" />
+                    <img className="rounded-[30px]" src="/banner4.jpg" alt="" loading="lazy" />
                 </div>
             </div>
         </>
